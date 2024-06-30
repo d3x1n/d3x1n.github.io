@@ -1,0 +1,4 @@
+baseURL: 'https://d3x1n.github.io/'
+languageCode : 'zh-CN'
+title : 'Test Blog'
+theme : 'PaperMod'
